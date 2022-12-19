@@ -1,0 +1,4 @@
+エラーっぽいsmiles
+
+COc1cc(C)ccc1NC(=O)ON=C(C)C ->　エンタルピーが大きすぎる
+COc1cc(C)ccc1NC([O])=O -> 正常と判断
